@@ -46,7 +46,7 @@
 - **[Intelligent_Box](https://github.com/hollow2003/Intelligent_Box)** - A tempratue and humidity self controlled intelligent controller
 
 ### **Diverse LLM Agent Backend**
-- **[One_station2chat](*https://github.com/hollow2003/One_station2chat)** - A Diverse LLM Agent website backend
+- **[One_station2chat](https://github.com/hollow2003/One_station2chat)** - A Diverse LLM Agent website backend
 ---
 
 ## 📈 GitHub Stats
