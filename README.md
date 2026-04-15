@@ -51,7 +51,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hollow2003&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PianranHuang)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hollow2003&layout=compact&theme=dark&hide_border=true)
 
