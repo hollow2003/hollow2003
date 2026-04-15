@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Huang Pianran (黄翩然)
 
-**Master's Student @ Harbin Institute of Technology** | **Robotics & Edge Computing Researcher** | **System Developer**
+**Master's Student @ Harbin Institute of Technology** | **Robotics & Edge Computing Researcher** | **DataCollectSystem Developer**
 
 ---
 
@@ -11,7 +11,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### **Robotics & IoT**
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
@@ -28,23 +27,23 @@
 
 ## 🚀 Featured Projects
 
+### 🗄️ **Logs/Data Collection & Edge Computing**
+- **[server_and_robot_simulator](https://github.com/hollow2003/server_and_robot_simulator)** - First Version of data collection system based on json schema and structured database
+- **[Nginx_Lua_Proxy](https://github.com/hollow2003/Nginx_Lua_Proxy)** - Data Preprocess through Nginx proxy applied in first Version of data collection system
+- **[Admin_panel](https://github.com/hollow2003/Admin_panel)** - A control panel for first version of data collection system
+- **[remote_logger](https://github.com/hollow2003/remote_logger)** - Center server of promoted data collection system
+- **[edge_sidecarlogger](https://github.com/hollow2003/edge_sidecarlogger)** - Edge data collect programe of promoted data collection system
+- **[sidecar_launcher](https://github.com/hollow2003/sidecar_launcher)** - Edge data collect programe manager of promoted data collection system
+- **[mock_robot](https://github.com/hollow2003/mock_robot)** - A mocked edge of promoted data collection system
+
 ### 🤖 **Robotics & Automation**
-- **[open_rmf-lift_adapter](https://github.com/hollow2003/open_rmf-lift_adapter)** - OpenRMF elevator adapter for robotic systems
-- **[open_rmf-door_adapter](https://github.com/hollow2003/open_rmf-door_adapter)** - Door control adapter for robot navigation
-- **[server_and_robot_simulator](https://github.com/hollow2003/server_and_robot_simulator)** - Robot simulation environment
+- **[open_rmf-lift_adapter](https://github.com/hollow2003/open_rmf-lift_adapter)** - OpenRMF elevator adapter for robotic systems, sync simulation and real world
+- **[open_rmf-door_adapter](https://github.com/hollow2003/open_rmf-door_adapter)** - OpenRMF door adapter for robotic systems, sync simulation and real world
+- **[RobotBehaviorTreeScheduler](https://github.com/hollow2003/RobotBehaviorTreeScheduler)** - A general robot scheduler base on behavior tree, not release yet
 
-### ⚡ **Edge Computing & System Tools**
-- **[remote_logger](https://github.com/hollow2003/remote_logger)** - Distributed logging system for edge devices
-- **[sidecar_launcher](https://github.com/hollow2003/sidecar_launcher)** - Sidecar pattern implementation for microservices
-- **[Intelligent_Box](https://github.com/hollow2003/Intelligent_Box)** - Smart edge computing device
+### 🌐 **Embedded System development**
 
-### 🌐 **Web & Networking**
-- **[Nginx_Lua_Proxy](https://github.com/hollow2003/Nginx_Lua_Proxy)** - High-performance proxy with Lua scripting
-- **[edge_sidecarlogger](https://github.com/hollow2003/edge_sidecarlogger)** - Edge-side logging web interface
-
-### 🗄️ **Server & Database**
-- **[server_postgresql](https://github.com/hollow2003/server_postgresql)** - PostgreSQL server configuration and management
-- **[Admin_panel](https://github.com/hollow2003/Admin_panel)** - System administration interface
+- **[Intelligent_Box](https://github.com/hollow2003/Intelligent_Box)** - A tempratue and humidity self controlled intelligent controller
 
 ---
 
@@ -61,7 +60,7 @@
 - 🔭 **Robotics Middleware** - Developing adapters for OpenRMF ecosystem
 - ⚡ **Edge Computing** - Building efficient edge-side logging and monitoring
 - 🛠️ **System Tools** - Creating performance-optimized system utilities
-- 🌐 **Network Infrastructure** - Improving proxy and server management tools
+- 🌐 **Embedded System** - Develop practical control program mainly based on STM32
 
 ---
 
@@ -80,10 +79,9 @@
 
 | Category | Projects | Primary Tech |
 |----------|----------|--------------|
-| Robotics | 4 | Python, C, OpenRMF |
-| Edge Computing | 3 | Python, C, Lua |
-| System Tools | 3 | C, C++, Python |
-| Web & Networking | 2 | HTML, Lua, Nginx |
+| Robotics | 3 | Python, C, C++, OpenRMF |
+| Datacollect and Edge Computing | 7 | Python, C, Lua |
+| Embedded System development | 1 | C |
 
 ---
 
